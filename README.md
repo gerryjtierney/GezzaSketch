@@ -1,3 +1,0 @@
-#RockPaperScissors
-# Gezzasketch
-# GezzaSketch
